@@ -1,0 +1,10 @@
+.env*
+!.env.example
+.git/
+.next/
+node_modules/
+*.tsbuildinfo
+coverage/
+docs/
+AGENTS.md
+CLAUDE.md

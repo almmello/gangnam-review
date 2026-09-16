@@ -1,0 +1,29 @@
+ASSESSMENT CONTRIBUTION — OWNERSHIP NOTICE
+
+This repository contains work prepared by Alexandre Monteiro de Mello for
+The Flywheel Corporation's assessment.
+
+For contributions covered by an accepted assessment agreement, ownership and
+permitted use are governed by that agreement: "Confidentiality & ownership —
+assessment terms", version 2.0, effective 2026-06-29:
+https://wetheflywheel.com/onboarding/piia/assessment
+
+That agreement provides for assignment of assessment contributions to
+The Flywheel Corporation, with an exclusive licence fallback where assignment
+does not fully take effect, and restrictions on the contributor's reuse.
+Nothing in this repository reserves rights inconsistent with that agreement
+or grants permission to reuse a covered submission in a portfolio.
+
+This notice does not replace, amend, sign or record acceptance of the agreement,
+nor does it independently assert that a transfer has already taken effect.
+The applicable accepted agreement controls the scope and timing of any transfer.
+No general public or open-source licence is granted by publication of this code.
+
+THIRD-PARTY MATERIALS
+
+Dependencies and fonts remain governed by their respective licences; see
+THIRD_PARTY_NOTICES.md and public/licenses/. This notice does not purport to
+assign rights in third-party materials that the contributor does not own.
+
+Source-site reviews, content, names and trademarks are not owned or relicensed
+by this project. The prototype does not claim official affiliation.
